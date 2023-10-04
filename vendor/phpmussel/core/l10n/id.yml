@@ -1,0 +1,76 @@
+##\
+# This file is a part of the phpMussel\Core package.
+# Homepage: https://phpmussel.github.io/
+#
+# PHPMUSSEL COPYRIGHT 2013 AND BEYOND BY THE PHPMUSSEL TEAM.
+#
+# License: GNU/GPLv2
+# @see LICENSE.txt
+#
+# This file: Indonesian language data (last modified: 2023.04.01).
+#
+# Regarding translations: My native language is English. Because this is a free
+# and open-source hobby project which generates zero income, and translatable
+# content is likely to change as the features and functionality supported by
+# the project changes, it doesn't make sense for me to spend money for
+# translations. Because I'm the sole author/developer/maintainer for the
+# project and I'm not a ployglot, any translations I produce are very likely to
+# contain errors. Sorry, but realistically, that won't ever change. If you find
+# any such errors/typos/mistakes/etc, your assistance to correct them would be
+# very much appreciated. Pull requests are invited and encouraged. Otherwise,
+# if you find these errors too much to handle, just stick with the original
+# English source. If a translation is irredeemably incomprehensible, let me
+# know which, and I can delete it. If you're not sure how to perform pull
+# requests, ask. I can help.
+##/
+
+SafeBrowseLookup_200: "Berpotensi URL berbahaya terdeteksi"
+SafeBrowseLookup_400: "Kesalahan permintaan API"
+SafeBrowseLookup_401: "Kesalahan otorisasi API"
+SafeBrowseLookup_503: "Layanan API tidak tersedia"
+SafeBrowseLookup_999: "Kesalahan API tidak diketahui"
+corrupted: "Terdeteksi rusak PE"
+data_not_available: "Data tidak tersedia."
+detected: "Terdeteksi %s"
+detected_control_characters: "Terdeteksi kontrol karakter"
+encrypted_archive: "Terdeteksi arsip dienkripsi; Arsip dienkripsi tidak diizinkan"
+error_log_header: "Jika kesalahan berikut terus terjadi, untuk melaporkannya atau mencari dukungan, tolong buat issue baru di halaman issue untuk phpMussel di GitHub ketika Anda punya waktu luang, dengan kesalahan tersebut bersama dengan semua informasi terkait terlampir. Terima kasih."
+failed_to_access: "Gagal mengakses "%s"!"
+field_date: "Tanggal"
+field_header_hash_reconstruction: "Rekonstruksi tanda tangan hash"
+field_header_pe_reconstruction: "Rekonstruksi tanda tangan PE sectional"
+field_header_scan_results_why_flagged: "Hasil pindai (mengapa ditandai)"
+field_ip_address: "Alamat IP"
+file: "File"
+filesize_limit_exceeded: "File ukuran batas melebihi"
+filetype_blacklisted: "File jenis pada hitam daftar"
+finished: "Selesai"
+generated_by: "Dihasilkan oleh %s"
+grammar_brackets: "%s (%s)"
+grammar_exclamation_mark: "%s!"
+grammar_fullstop: "%s."
+grammar_spacer: " "
+image: "Gambar"
+invalid_data: "Data tidak valid!"
+invalid_file: "File tidak valid!"
+macros_not_permitted: "Makro tidak diizinkan"
+only_allow_images: "Hanya file gambar diizinkan"
+quarantined_as: "Dikarantina sebagai "%s.qfu"."
+recursive: "Batas kedalaman rekursi melebihi"
+response_error: "Kesalahan"
+scan_chameleon: "Serangan bunglon %s terdeteksi"
+scan_checking: "Memeriksa "%s"."
+scan_command_injection: "Upaya injeksi perintah terdeteksi"
+scan_complete: "Selesai"
+scan_extensions_missing: "Gagal (hilang ekstensi yang dibutuhkan)!"
+scan_filename_manipulation_detected: "Manipulasi nama file terdeteksi"
+scan_missing_filename: "Nama file hilang"
+scan_no_problems_found: "Tidak ada masalah yang diketahui."
+scan_reading: "Bacaan"
+scan_signature_file_missing: "Tanda tangan file hilang"
+scan_tampering: "Terdeteksi perubahan berpotensi berbahaya dalam file"
+started: "Dimulai"
+state_failed_missing: "Tugas gagal karena komponen yang diperlukan tidak tersedia."
+too_many_files_in_archive: "Terlalu banyak file dalam arsip"
+too_many_urls: "Terlalu banyak URL"
+x_does_not_exist: "%s tidak ada"

@@ -1,0 +1,76 @@
+##\
+# This file is a part of the phpMussel\Core package.
+# Homepage: https://phpmussel.github.io/
+#
+# PHPMUSSEL COPYRIGHT 2013 AND BEYOND BY THE PHPMUSSEL TEAM.
+#
+# License: GNU/GPLv2
+# @see LICENSE.txt
+#
+# This file: Arabic language data (last modified: 2023.04.01).
+#
+# Regarding translations: My native language is English. Because this is a free
+# and open-source hobby project which generates zero income, and translatable
+# content is likely to change as the features and functionality supported by
+# the project changes, it doesn't make sense for me to spend money for
+# translations. Because I'm the sole author/developer/maintainer for the
+# project and I'm not a ployglot, any translations I produce are very likely to
+# contain errors. Sorry, but realistically, that won't ever change. If you find
+# any such errors/typos/mistakes/etc, your assistance to correct them would be
+# very much appreciated. Pull requests are invited and encouraged. Otherwise,
+# if you find these errors too much to handle, just stick with the original
+# English source. If a translation is irredeemably incomprehensible, let me
+# know which, and I can delete it. If you're not sure how to perform pull
+# requests, ask. I can help.
+##/
+
+SafeBrowseLookup_200: "يحتمل أن تكون ضارة URL الكشف"
+SafeBrowseLookup_400: "API خطأ طلب"
+SafeBrowseLookup_401: "API خطأ ترخيص"
+SafeBrowseLookup_503: "API الخدمة غير متوفرة"
+SafeBrowseLookup_999: "خطأ API غير معروف"
+corrupted: "الكشف PE تلف"
+data_not_available: "البيانات غير متوفرة."
+detected: "الكشف %s"
+detected_control_characters: "الكشف أحرف التحكم"
+encrypted_archive: "كشف أرشيف المشفرة؛ أرشيف المشفرة غير مسموح"
+error_log_header: "إذا استمرت أي من الأخطاء التالية، من أجل الإبلاغ عنها، أو لطلب الدعم, قم بالاتصال في صفحة قضايا phpMussel في GitHub. قم بتضمين الأخطاء المعنية بالإضافة إلى أي معلومات أخرى ذات صلة. شكر."
+failed_to_access: "فشل في الوصول إلى "%s"!"
+field_date: "التاريخ"
+field_header_hash_reconstruction: "إعادة بناء التواقيع التجزئة"
+field_header_pe_reconstruction: "إعادة بناء التوقيعات القطاعية PE"
+field_header_scan_results_why_flagged: "نتائج المسح (لماذا تم الإبلاغ عنها)"
+field_ip_address: "عنوان IP"
+file: "ملف"
+filesize_limit_exceeded: "تجاوز حد حجم ملف"
+filetype_blacklisted: "نوع الملف في القائمة السوداء"
+finished: "انتهى"
+generated_by: "تم إنشاؤها بواسطة %s"
+grammar_brackets: "%s (%s)"
+grammar_exclamation_mark: "%s!"
+grammar_fullstop: "%s."
+grammar_spacer: " "
+image: "صورة"
+invalid_data: "بيانات غير صالحة!"
+invalid_file: "ملف غير صالح!"
+macros_not_permitted: "وحدات الماكرو غير مسموح بها"
+only_allow_images: "يسمح بملفات الصور فقط"
+quarantined_as: "الحجر الصحي بأنه "%s.qfu"."
+recursive: "تجاوزت الحد عمق العودية"
+response_error: "خطأ"
+scan_chameleon: "الكشف هجوم الحرباء %s"
+scan_checking: "فحص "%s"."
+scan_command_injection: "الكشف محاولة حقن القيادة"
+scan_complete: "تم الانتهاء من"
+scan_extensions_missing: "فشل (مفقود ملحقات المطلوبة)!"
+scan_filename_manipulation_detected: "الكشف تلاعب اسم الملف"
+scan_missing_filename: "مفقود اسم الملف"
+scan_no_problems_found: "الكشف لا مشاكل."
+scan_reading: "قراءة"
+scan_signature_file_missing: "مفقود ملف التوقيع"
+scan_tampering: "الكشف العبث ملف يحتمل أن تكون خطرة"
+started: "بدأت"
+state_failed_missing: "فشلت المهمة لأن المكون الضروري غير متوفر."
+too_many_files_in_archive: "ملفات كثيرة جدا في الأرشيف"
+too_many_urls: "عدد كبير جدا من عناوين المواقع"
+x_does_not_exist: "لا يوجد %s"

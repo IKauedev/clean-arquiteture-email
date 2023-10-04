@@ -1,0 +1,76 @@
+##\
+# This file is a part of the phpMussel\Core package.
+# Homepage: https://phpmussel.github.io/
+#
+# PHPMUSSEL COPYRIGHT 2013 AND BEYOND BY THE PHPMUSSEL TEAM.
+#
+# License: GNU/GPLv2
+# @see LICENSE.txt
+#
+# This file: Portuguese (Brazil) language data (last modified: 2023.04.25).
+#
+# Regarding translations: My native language is English. Because this is a free
+# and open-source hobby project which generates zero income, and translatable
+# content is likely to change as the features and functionality supported by
+# the project changes, it doesn't make sense for me to spend money for
+# translations. Because I'm the sole author/developer/maintainer for the
+# project and I'm not a ployglot, any translations I produce are very likely to
+# contain errors. Sorry, but realistically, that won't ever change. If you find
+# any such errors/typos/mistakes/etc, your assistance to correct them would be
+# very much appreciated. Pull requests are invited and encouraged. Otherwise,
+# if you find these errors too much to handle, just stick with the original
+# English source. If a translation is irredeemably incomprehensible, let me
+# know which, and I can delete it. If you're not sure how to perform pull
+# requests, ask. I can help.
+##/
+
+SafeBrowseLookup_200: "URL potencialmente perigoso detectado"
+SafeBrowseLookup_400: "Erro de solicitação do API"
+SafeBrowseLookup_401: "Erro de autorização do API"
+SafeBrowseLookup_503: "Serviço do API está indisponível"
+SafeBrowseLookup_999: "Erro do API desconhecida"
+corrupted: "Detectado corrompido PE"
+data_not_available: "Dados não disponíveis."
+detected: "Detectado %s"
+detected_control_characters: "Caracteres de controle detectado"
+encrypted_archive: "Detectado compactado arquivo criptografado; Compactado arquivos criptografados não permitido"
+error_log_header: "Se algum dos seguintes erros persistir, para reportá-los ou buscar apoio, crie um novo issue na página de issues do phpMussel no GitHub quando tiver um momento livre, com os erros em questão, juntamente com outras informações pertinentes anexadas. Obrigado."
+failed_to_access: "Falha ao acessar "%s"!"
+field_date: "Data"
+field_header_hash_reconstruction: "Reconstrução de assinaturas hash"
+field_header_pe_reconstruction: "Reconstrução de assinaturas PE seccionais"
+field_header_scan_results_why_flagged: "Resultados da verificação (por que indicado)"
+field_ip_address: "Endereço IP"
+file: "Arquivo"
+filesize_limit_exceeded: "Arquivo tamanho limite excedido"
+filetype_blacklisted: "Tipo de arquivo está na negra lista"
+finished: "Terminado"
+generated_by: "Gerado por %s"
+grammar_brackets: "%s (%s)"
+grammar_exclamation_mark: "%s!"
+grammar_fullstop: "%s."
+grammar_spacer: " "
+image: "Imagem"
+invalid_data: "Dados inválidos!"
+invalid_file: "Arquivo inválido!"
+macros_not_permitted: "Macros não são permitidas"
+only_allow_images: "Somente arquivos de imagem são permitidos"
+quarantined_as: "Em quarentena como "%s.qfu"."
+recursive: "Recursão profundidade limite excedido"
+response_error: "Erro"
+scan_chameleon: "%s camaleão ataque detectado"
+scan_checking: "Verificando "%s"."
+scan_command_injection: "Comando injeção tentativa detectado"
+scan_complete: "Completo"
+scan_extensions_missing: "Fracassado (faltando extensões necessárias)!"
+scan_filename_manipulation_detected: "Arquivo nome manipulação detectado"
+scan_missing_filename: "Nome do arquivo está ausente"
+scan_no_problems_found: "Não problemas encontrados."
+scan_reading: "Lendo"
+scan_signature_file_missing: "Assinatura arquivo faltando"
+scan_tampering: "Detectado potencialmente perigoso arquivo adulteração"
+started: "Começado"
+state_failed_missing: "A tarefa falhou porque um componente necessário está indisponível."
+too_many_files_in_archive: "Demasiados arquivos no arquivo compactado"
+too_many_urls: "Demasiados URLs"
+x_does_not_exist: "%s não existe"

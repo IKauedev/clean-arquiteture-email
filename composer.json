@@ -1,0 +1,24 @@
+{
+    "name": "kaue1/clean-arquiteture",
+    "autoload": {
+        "psr-4": {
+            "CleanArquiteture\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kauematos",
+            "email": "kaue178hotimail@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.282",
+        "phpmailer/phpmailer": "*",
+        "phpmussel/phpmailer": "^3.1"
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "CleanArquiteture\\Infrastructure\\Database\\DataBaseConfigLoader::loadConfig"
+        ]
+    }
+}
