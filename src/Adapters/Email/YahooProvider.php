@@ -3,7 +3,7 @@ use CleanArquiteture\Domain\Interfaces\EmailProviderInterface;
 use PHPMailer\PHPMailer\PHPMailer;
 
 class YahooProvider implements EmailProviderInterface {
-    public function sendEmail(string $recipient, string $message, string $subject ) : bool
+    public function execute(string $recipient, string $message, string $subject ) : bool
     {
         $send = new PHPMailer(true);
 
