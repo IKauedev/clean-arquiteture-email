@@ -11,8 +11,8 @@ class SendEmailUseCase implements EmailProviderInterface {
         $this->emailProvider = $emailProvider;
     }
 
-    public function sendEmail(string $recipient, string $subject, string $message) : bool
+    public function execute(string $recipient, string $subject, string $message) : bool
     {
-        return $this->emailProvider->sendEmail($recipient, $subject, $message);
+        return $this->emailProvider->execute($recipient, $subject, $message);
     }
 }
